@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suitret.github.io/sitemap.xml
